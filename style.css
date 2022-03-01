@@ -33,6 +33,13 @@
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
+.banner {
+  backgroun-color: #416ef2;
+  position: top;
+  width: 20 px;
+  padding: none;
+}
+
 head {
   background-color: #416ef2;
   font-family: verdana;
