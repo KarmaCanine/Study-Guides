@@ -34,9 +34,12 @@
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 head {
-  background-color: powderblue;
+  background-color: #416ef2;
+  font-family: verdana;
+  
 }
 
 body {
-  background-color: blue;
+  background-color: #5aafe0;
+  font-family: verdana;
 }
